@@ -1,0 +1,2 @@
+# Flood-Assessment-using-2D-Unsteady-Flow-Analysis---A-Case-Study-in-Lower-Manair-Basin
+The Study is focused on the precise delineation and characterization of floodplains employing two-dimensional flood inundation through HEC-RAS. September 2023 - April 2024 Tools &amp; technologies used: QGIS, HEC-HMS, HEC-RAS The model was calibrated and validated to obtain risk associated based on river level at different cross-sections. 
