@@ -152,7 +152,3 @@ Special thanks to:
 ---
 
 Feel free to customize the file further for your specific GitHub repository!
-
-```  
-
-This template ensures clarity and professionalism, making the project accessible to viewers and potential collaborators. Let me know if you'd like any further adjustments!
