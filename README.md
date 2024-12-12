@@ -1,3 +1,6 @@
+# 🌊 Flood Risk Assessment Using 2D Unsteady Flow Analysis  
+**A Case Study in Lower Manair Basin**  
+
 ---
 
 ## 🚨 **Important Notice**
@@ -7,30 +10,14 @@ The project files are **not included in this repository**. If you would like acc
 📱 **WhatsApp:** [+91 6300785953](https://wa.me/916300785953)  
 📧 **Email:** [namratha.arige@gmail.com](mailto:namratha.arige@gmail.com)  
 
-
-We look forward to helping you with your project or inquiries!
-
-
 💡 **Why Connect?**  
 - Access comprehensive models, simulation data, and flood mapping tools used in this project.  
 - Learn how to use HEC-RAS, HEC-HMS, and QGIS effectively for flood risk assessment.  
-- Collaborate on academic, research, or professional hydraulic modelling projects.
+- Collaborate on academic, research, or professional hydraulic modeling projects.  
 
-  
-👉 **Don't hesitate – let’s bring your ideas to life!** 
-
+👉 **Don't hesitate – let’s bring your ideas to life!**  
 
 ---
-
-
-
-Here's a well-structured and visually appealing `README.md` file for showcasing the project on GitHub:  
-
-```markdown
-# 🌊 Flood Risk Assessment Using 2D Unsteady Flow Analysis  
-**A Case Study in Lower Manair Basin**  
-
-![Flood Analysis Banner](https://example.com/banner-image.png) <!-- Replace with a relevant banner image URL -->
 
 ## 📑 **Overview**
 This project leverages advanced hydraulic modeling and geospatial tools to assess flood risks in the Lower Manair Basin, a region prone to recurrent flooding. The study integrates **HEC-RAS**, **HEC-HMS**, and **QGIS** to simulate 2D unsteady flow conditions and produce actionable insights for flood management and urban planning.
@@ -150,21 +137,22 @@ Special thanks to:
 ---
 
 ## 🖼️ **Preview**
-![Simulated Depths at different time series in the year-2018](![image](https://github.com/user-attachments/assets/63785e48-c6c9-4b95-ad16-d830071c2d45)
-) <!-- Replace with a flood map image URL -->
+### **Simulated Depths at Different Time Series (2018)**
+![Simulated Depths 2018](https://github.com/user-attachments/assets/63785e48-c6c9-4b95-ad16-d830071c2d45)
 
-![Simulated Depths at different time series in the year-2019](![image](https://github.com/user-attachments/assets/156b0119-3fd7-47da-9407-a122b7132761)
-)
+### **Simulated Depths at Different Time Series (2019)**
+![Simulated Depths 2019](https://github.com/user-attachments/assets/156b0119-3fd7-47da-9407-a122b7132761)
 
-![Simulated Velocity of the year 2019](![image](https://github.com/user-attachments/assets/f7894d39-07b7-44ca-8527-13a919a98cfb)
-)
+### **Simulated Velocity (2019)**
+![Simulated Velocity 2019](https://github.com/user-attachments/assets/f7894d39-07b7-44ca-8527-13a919a98cfb)
 
-![Simulated WSE of the year 2019](![image](https://github.com/user-attachments/assets/de47451d-f316-4932-83b7-817f83ae21ea)
-)
+### **Simulated Water Surface Elevation (WSE) (2019)**
+![Simulated WSE 2019](https://github.com/user-attachments/assets/de47451d-f316-4932-83b7-817f83ae21ea)
 
 ---
 
 Feel free to customize the file further for your specific GitHub repository!
+
 ```  
 
 This template ensures clarity and professionalism, making the project accessible to viewers and potential collaborators. Let me know if you'd like any further adjustments!
